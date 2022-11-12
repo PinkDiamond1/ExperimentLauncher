@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "ExperimentLauncher.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
